@@ -7,7 +7,5 @@ const local: any = {
         'app.license': '许可证',
         'app.homepage': '主页',
         'app.repository': '代码仓库',
-        'app.bugs': '问题反馈',
-        'app.documentation': '文档',
     },
 }
