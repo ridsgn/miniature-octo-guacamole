@@ -12,6 +12,13 @@
 			"suspicious": {
 				"noExplicitAny": "error",
 				"noImplicitAnyLet": "warn"
+			},
+			"correctness": {
+				"useExhaustiveDependencies": "warn",
+				"useHookAtTopLevel": "error",
+				"useJsxKeyInIterable": "warn",
+				"noUnusedVariables": "warn",
+				"noUnusedImports": "error"
 			}
 		}
 	},
