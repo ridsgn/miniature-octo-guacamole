@@ -1,0 +1,10 @@
+{
+	"name": "reviewdog-action-biome-sandbox",
+	"version": "1.0.0",
+	"description": "Test for reviewdog-action-biome",
+	"author": "ridsgn",
+	"license": "MIT",
+	"devDependencies": {
+		"@biomejs/biome": "^1.9.4"
+	}
+}
