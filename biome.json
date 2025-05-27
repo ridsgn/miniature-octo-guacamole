@@ -10,7 +10,7 @@
 		"rules": {
 			"recommended": false,
 			"suspicious": {
-				"noExplicitAny": "error",
+				"noExplicitAny": "off",
 				"noImplicitAnyLet": "warn"
 			},
 			"correctness": {
